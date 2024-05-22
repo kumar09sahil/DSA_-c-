@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/odins/OneDrive/Desktop/c++/Heap",
-      "program": "c:/Users/odins/OneDrive/Desktop/c++/Heap/build/Debug/outDebug",
+      "cwd": "d:/c++/greedy",
+      "program": "d:/c++/greedy/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
